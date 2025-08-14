@@ -129,6 +129,11 @@ footer {
     transition: 0.2s;
 }
 
+.favorite-games{
+    color: white;
+    background: rgb(77, 77, 77);
+}
+
 .social-button:hover {
     transform: scale(1.05);
 }

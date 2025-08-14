@@ -48,6 +48,7 @@ header {
 
 .header_btn {
     cursor: pointer;
+    transition: 0.2s;
 }
 
 .header_btn:hover {
@@ -94,6 +95,10 @@ section h1 {
     background: black;
 }
 
+.github{
+    transition: 0.2s;
+}
+
 .github:hover {
     transform: scale(1.05);
     cursor: pointer;
@@ -118,4 +123,12 @@ footer {
     align-items: center;
     justify-content: center;
     color: white;
+}
+
+.social-button{
+    transition: 0.2s;
+}
+
+.social-button:hover {
+    transform: scale(1.05);
 }

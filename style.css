@@ -137,3 +137,10 @@ footer {
 .social-button:hover {
     transform: scale(1.05);
 }
+
+.game-button{
+    transition: 0.2s;
+}
+.game-button:hover {
+    transform: scale(1.05);
+}
